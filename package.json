@@ -1,0 +1,15 @@
+{
+  "name": "nuvio-vega-providers",
+  "version": "1.0.0",
+  "description": "Nuvio providers converted to Vega-compatible split dist modules",
+  "main": "convert.js",
+  "scripts": {
+    "build": "node convert.js",
+    "lint": "node --check convert.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["vega", "nuvio", "streaming", "providers"],
+  "license": "MIT"
+}
