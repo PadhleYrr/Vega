@@ -1,0 +1,4 @@
+node_modules/
+nuvio-src/
+*.log
+.DS_Store
