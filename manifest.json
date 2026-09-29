@@ -1,0 +1,74 @@
+[
+  {
+    "value": "vixsrc",
+    "display_name": "VixSrc",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "english",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "hdhub4u",
+    "display_name": "HDHub4u",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "india",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "netmirror",
+    "display_name": "NetMirror",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "english",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "fibwatch",
+    "display_name": "FibWatch",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "english",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "4khdhub",
+    "display_name": "4KHDHub",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "english",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "vidrock",
+    "display_name": "VidRock",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "english",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "animezey",
+    "display_name": "AnimeZeY",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "anime",
+    "disabled": false,
+    "hasSettings": false
+  },
+  {
+    "value": "vidlink",
+    "display_name": "VidLink",
+    "version": "1.0.0",
+    "icon": "",
+    "type": "english",
+    "disabled": false,
+    "hasSettings": false
+  }
+]
